@@ -2,7 +2,7 @@ name: bubble sort
 init: qSt
 accept: qEnd
 
-/// alphabet: 0, 1, 2
+/// alphabet: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 
 qSt,0
 q0,0,>
